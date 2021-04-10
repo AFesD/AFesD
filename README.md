@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @AFesD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 **Hi! I'm Ven.**  
 
-<!---
-AFesD/AFesD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+18-year-old software developer and student from **Poland**.
+
+
+---
+
+### Experience
+
+- Python (d.py, Pillow, Matplotlib, Flask)  
+- JavaScript, TypeScript, Node (d.js, Express)  
+- HTML, CSS (Tailwind)
+- React
+- C++, C
+- C#
+
+---
+
+### Contact
+ 
+🐦 twitter • [@AFesD_](https://twitter.com/AFesD_)  
+
+💬 discord • [AFesD#0946](https://discord.gg/4XWMM9umyZ)
