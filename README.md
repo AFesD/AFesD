@@ -1,6 +1,6 @@
-## 👋 **Hi! I'm Ven.**  
+## 👋 **Hi! I'm AFesD.**  
 
-18-year-old software developer and student from **Poland**.
+17-year-old software developer and student from **Poland**.
 
 
 ---
